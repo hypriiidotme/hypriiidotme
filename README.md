@@ -15,7 +15,7 @@ also i use some actually good apps for my wifi, (eg 1.1.1.1)
 
 # gh stats
 
-[![hypriii's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriii&layout=donut&theme=panda&count_private=true&langs_count=16)](https://hypriii.github.io)
+![hypriii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![hypriii's stats](https://github-readme-stats.vercel.app/api?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 # discord

@@ -1,3 +1,10 @@
+[![SSSSS Asciii](https://cdn.discordapp.com/attachments/1324904827024838738/1331225651696369705/output-seomagnifier.png?ex=6790d800&is=678f8680&hm=71549a116873749ff687537a6e4f306e29cafe17858d303c83752f9b954dbc3a&)](https://1.1.1.1)
+
+# 
+
+![](https://komarev.com/ghpvc/?username=hypriii)
+
+
 # hi there!
 hey guys im hyprix
 
@@ -11,7 +18,3 @@ coding skills: suck
 
 # discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917)
-
-# last page
-
-![](https://komarev.com/ghpvc/?username=hypriii)

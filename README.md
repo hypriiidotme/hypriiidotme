@@ -1,4 +1,4 @@
-[![TPOT clip](https://github.com/hypriii/hypriii/blob/main/src/clip.gif)](https://bfdi.tv)
+[![TPOT clip](https://github.com/hypriii/hypriii/blob/main/src/7N7CwvC5XylmNCIi.gif)](https://bfdi.tv)
 # 
 
 ![](https://komarev.com/ghpvc/?username=hypriii)

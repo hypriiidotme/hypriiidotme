@@ -1,8 +1,8 @@
 # hi there!
 hey guys im hyprix
 
-also heres my discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917/])(https://discord.com/users/1251097782580940917)
+i am just a randomperson
+idk what do in github
+coding skills: suck
 
 ok bye, wait i forgot 1 thing,

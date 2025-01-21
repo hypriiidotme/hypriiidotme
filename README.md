@@ -13,9 +13,10 @@ coding skills: suck
 
 also i use some actually good apps for my wifi, (eg 1.1.1.1)
 
-# most used languages
+# gh stats
 
 [![hypriii's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriii&layout=donut&theme=panda&count_private=true&langs_count=16)](https://hypriii.github.io)
 
+![hypriii's stats](https://github-readme-stats.vercel.app/api?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 # discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917)

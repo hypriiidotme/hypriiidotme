@@ -1,4 +1,4 @@
-[![SSSSS Asciii](https://cdn.discordapp.com/attachments/1324904827024838738/1331225651696369705/output-seomagnifier.png?ex=6790d800&is=678f8680&hm=71549a116873749ff687537a6e4f306e29cafe17858d303c83752f9b954dbc3a&)](https://1.1.1.1)
+[![SSSSS Asciii](https://cdn.discordapp.com/attachments/1322151140971905066/1331227552148357171/output-seomagnifier_1.png?ex=6790d9c5&is=678f8845&hm=39037d7386ab356c4e7c1598fee448ba9bd58933db236feb1f11a442ad2dc289&)](https://1.1.1.1)
 
 # 
 

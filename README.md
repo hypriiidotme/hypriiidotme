@@ -1,4 +1,4 @@
-[![](https://hypriii.github.io/7N7CwvC5XylmNCIi.mp4)](https://bfdi.tv)
+[![](src/clip.gif)](https://bfdi.tv)
 # 
 
 ![](https://komarev.com/ghpvc/?username=hypriii)

@@ -11,3 +11,8 @@ coding skills: suck
 
 # discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917)
+
+# listening to:
+
+
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/hyprixbfdi?color=25332E&textColor=D8D8D8&isRounded=true&displayName=true)

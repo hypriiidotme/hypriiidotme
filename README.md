@@ -1,5 +1,5 @@
 [![SSSSS Asciii](https://cdn.discordapp.com/attachments/1322151140971905066/1331227552148357171/output-seomagnifier_1.png?ex=6790d9c5&is=678f8845&hm=39037d7386ab356c4e7c1598fee448ba9bd58933db236feb1f11a442ad2dc289&)](https://1.1.1.1)
-The app that i use for my bad wifi
+**The app that i use for my bad wifi!**
 # 
 
 ![](https://komarev.com/ghpvc/?username=hypriii)

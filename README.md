@@ -2,7 +2,7 @@
 
 # badges
 
-![](https://komarev.com/ghpvc/?username=hypriii) ![](https://img.shields.io/badge/tpot-enjoyer-green) ![](https://img.shields.io/badge/short_ass-guy-green)
+![](https://komarev.com/ghpvc/?username=hypriii) ![](https://img.shields.io/badge/tpot-enjoyer-green) ![](https://img.shields.io/badge/short_ass-guy-green) ![](https://img.shields.io/badge/inactive-person-red)
 
 # hi there!
 hey guys im hyprix

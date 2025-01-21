@@ -12,4 +12,4 @@ coding skills: suck
 # discord & socials
 [![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917)
 
-[![Bluesky](https://i.imgur.com/B0HfSQX.png)](https://bsky.app/profile/hypriii.github.io/)
+[![bsky](https://i.imgur.com/KEyQLZ4.png)](https://bsky.app/profile/hypriii.github.io)

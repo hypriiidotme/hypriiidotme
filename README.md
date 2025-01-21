@@ -18,5 +18,8 @@ also i use some actually good apps for my wifi, (eg 1.1.1.1)
 ![hypriii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![hypriii's stats](https://github-readme-stats.vercel.app/api?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![hypriii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hypriii&theme=tokyonight&hide_border=true)
+
 # discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917)

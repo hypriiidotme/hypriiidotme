@@ -1,5 +1,4 @@
-[![SSSSS Asciii](https://cdn.discordapp.com/attachments/1322151140971905066/1331227552148357171/output-seomagnifier_1.png?ex=6790d9c5&is=678f8845&hm=39037d7386ab356c4e7c1598fee448ba9bd58933db236feb1f11a442ad2dc289&)](https://1.1.1.1)
-**The app that i use for my bad wifi!**
+[![](https://hypriii.github.io/7N7CwvC5XylmNCIi.mp4)](https://bfdi.tv)
 # 
 
 ![](https://komarev.com/ghpvc/?username=hypriii)
@@ -11,6 +10,8 @@ hey guys im hyprix
 i am just a random person
 idk what do in github
 coding skills: suck
+
+also i use some actually good apps for my wifi, (eg 1.1.1.1)
 
 # most used languages
 

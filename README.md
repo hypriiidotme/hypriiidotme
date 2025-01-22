@@ -21,5 +21,8 @@ also i use some actually good apps for my wifi, (eg 1.1.1.1)
 
 ![hypriii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hypriii&theme=tokyonight&hide_border=true)
 
-# discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917)
+# discord & socials
+[![Discord Presence](https://lanyard.cnrad.dev/api/1251097782580940917)](https://discord.com/users/1251097782580940917) 
+# 
+
+[![](https://img.shields.io/badge/Bluesky-1185FE?style=for-the-badge&logo=Bluesky&logoColor=white)](https://is.gd/SN8ycz) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://is.gd/x72uio) [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tidalwavebyoni) [![](https://img.shields.io/badge/Carrd-3B467F?style=for-the-badge&logo=Carrd&logoColor=white)](https://hypriii.github.io/aboutme)

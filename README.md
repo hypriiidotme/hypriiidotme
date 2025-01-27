@@ -13,6 +13,8 @@ coding skills: suck
 
 also i use some actually good apps for my wifi, (eg 1.1.1.1)
 
+more info on my carrd
+
 # gh stats
 
 ![hypriii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)

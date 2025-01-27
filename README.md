@@ -15,6 +15,13 @@ also i use some actually good apps for my wifi, (eg 1.1.1.1)
 
 more info on my carrd
 
+# not "malicious" projects
+
+**fake github pages error**
+its https://hypriii.github.io/tutorial.mp4
+where it looks like it doesnt exist. but if you see, the link is hypriii.github.io/tutorial.mp4.**html**
+the link was supposed to redirect to a jumpscare but i made it to redirect it to youareanidiot
+
 # gh stats
 
 ![hypriii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypriii&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
